@@ -48,13 +48,19 @@ Select `1. Login with Google` from the menu. You might be asked to follow a URL 
 If you prefer to use an API key:
 
 1.  [Get your Gemini API Key](https://aistudio.google.com/apikey) from Google AI Studio.
-2.  Run the `gemini` command:
+2.  Add your Gemini API key to .env:
+
+    ```bash
+    echo GEMINI_API_KEY=your-gemni-api-ke > .env
+    ```
+
+3.  Run the `gemini` command:
 
     ```bash
     gemini
     ```
 
-3.  Select `2. Use Gemini API Key` and paste your key when prompted.
+4.  Select `2. Use Gemini API Key` and paste your key when prompted.
 
 ## Customization
 
