@@ -2,7 +2,7 @@
 [![run_devcontainer_ci](https://github.com/codequokka/devcontainer-gemini-cli/actions/workflows/run_devcontainer_ci.yaml/badge.svg)](https://github.com/codequokka/devcontainer-gemini-cli/actions/workflows/run_devcontainer_ci.yaml)
 [![run_github_actions_workflow_ci](https://github.com/codequokka/devcontainer-gemini-cli/actions/workflows/run_github_actions_workflow_ci.yml/badge.svg)](https://github.com/codequokka/devcontainer-gemini-cli/actions/workflows/run_github_actions_workflow_ci.yml)
 
-This repository provides a pre-configured development environment using [VS Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) to easily get started with the [Google Gemini CLI](https://github.com/google/gemini-cli).
+This repository provides a pre-configured development environment using [VS Code Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) to easily get started with the [Google Gemini CLI](https://github.com/google-gemini/gemini-cli).
 
 It allows you to use the Gemini CLI in a sandboxed, consistent, and reproducible environment without needing to install `npm` or other dependencies directly on your host machine.
 
