@@ -14,6 +14,7 @@ This repository provides a pre-configured development environment using [VS Code
 - **Isolated Environment**: The Gemini CLI and its dependencies are installed inside a Docker container, keeping your local system clean.
 - **Reproducible**: Ensures everyone on a team has the exact same development environment.
 - **Pre-installed Tools**: Comes with `@google/gemini-cli` ready to use.
+- **VS Code Gemini Extension**: Includes the official [Google Gemini extension](https://marketplace.visualstudio.com/items?itemName=google.gemini-cli-vscode-ide-companion) for a rich editing experience.
 
 ## 🚀 Getting Started
 

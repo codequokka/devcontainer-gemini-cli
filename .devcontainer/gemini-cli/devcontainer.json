@@ -46,6 +46,8 @@
 				// Docker
 				"ms-azuretools.vscode-docker",
 				"exiasr.hadolint",
+				// Gemini
+				"google.gemini-cli-vscode-ide-companion",
 				// Github Actions
 				"github.vscode-github-actions",
 				// Workspace
