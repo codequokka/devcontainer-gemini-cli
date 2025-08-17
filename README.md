@@ -14,6 +14,7 @@ This repository provides a pre-configured development environment using [VS Code
 - **Isolated Environment**: The Gemini CLI and its dependencies are installed inside a Docker container, keeping your local system clean.
 - **Reproducible**: Ensures everyone on a team has the exact same development environment.
 - **Pre-installed Tools**: Comes with `@google/gemini-cli` ready to use.
+- **Integrated with Serena**: Includes configuration for the Serena MCP server, enabling advanced code editing and project Q&A capabilities.
 
 ## 🚀 Getting Started
 
